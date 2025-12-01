@@ -1,0 +1,13 @@
+{
+  "scanned_files": 3,
+  "groups": [
+    {
+      "size_bytes": 16,
+      "saved_if_dedup_bytes": 16,
+      "files": [
+        "test_duplicates/a.txt",
+        "test_duplicates/copy_a.txt"
+      ]
+    }
+  ]
+}
